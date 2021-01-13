@@ -1,3 +1,6 @@
 [submodule "SpaceCreatures"]
 	path = SpaceCreatures
 	url = https://github.com/hmadisonturner/SpaceCreatures
+[submodule "conway-life"]
+	path = conway-life
+	url = https://github.com/hmadisonturner/conway-life
