@@ -7,3 +7,6 @@
 [submodule "8f1330f606ed965d27746ef24e60b898"]
 	path = 8f1330f606ed965d27746ef24e60b898
 	url = https://gist.github.com/8f1330f606ed965d27746ef24e60b898.git
+[submodule "rick-and-morty-cards"]
+	path = rick-and-morty-cards
+	url = https://github.com/hmadisonturner/rick-and-morty-cards
