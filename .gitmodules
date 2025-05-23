@@ -10,3 +10,6 @@
 [submodule "rick-and-morty-cards"]
 	path = rick-and-morty-cards
 	url = https://github.com/hmadisonturner/rick-and-morty-cards
+[submodule "ai-share-menu"]
+	path = ai-share-menu
+	url = https://gist.github.com/e9e89f35dc710bd4d96586c04279795c.git
